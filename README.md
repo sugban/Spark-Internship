@@ -18,3 +18,8 @@ Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’<br>
 As a business manager, I will find out the weak areas where the work be needed to dine to make more profit.<br>
 Also will find out all business problems that I can derive by exploring the data<br>
 [**Dashboard Link**](https://public.tableau.com/views/ExploratoryDataAnalysis-Retail_16293202903370/ExploratoryDataAnalysis-Retail?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+## Task 4
+**Exploratory Data Analysis - Terrorism**<br>
+As a security/defense analyst, try to find out the hot zone of terrorism.<br>
+[**Dashboard Link**](https://public.tableau.com/app/profile/sugandh.bansal/viz/ExploratoryDataAnalysis-Terrorism_16296585413560/ExploratoryDataAnalysis-Terrorism)
